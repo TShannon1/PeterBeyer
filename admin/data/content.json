@@ -1,0 +1,360 @@
+{
+    "site": {
+        "name": "Peter Beyer Architect",
+        "credentials": "AIA A+ Member",
+        "tagline": "Residential and commercial‑scale projects in Perth.",
+        "intro": "<p>We involve clients in the design process, using 3D visualisation to develop exciting design solutions for your project.</p><p>We aim for great spaces, wonderful light, a room with a view… and <strong>economic and delightful</strong> solutions in touch with both nature and the market.</p>",
+        "mobile": "0411 323 296",
+        "phone": "08 9274 3253",
+        "email": "",
+        "location": "Perth, Western Australia",
+        "footer": "Qualified architect, Australian Institute of Architects."
+    },
+    "sections": [
+        {
+            "id": "gallery",
+            "type": "gallery",
+            "title": "Gallery",
+            "menu": "Home",
+            "visible": true,
+            "body": "",
+            "projects": [
+                {
+                    "id": "recent-work",
+                    "title": "Recent work",
+                    "text": "Projects under construction and completed around Perth.",
+                    "images": [
+                        {
+                            "src": "assets/064-image.jpg",
+                            "caption": ""
+                        },
+                        {
+                            "src": "assets/065-image_002.jpg",
+                            "caption": "Under construction"
+                        },
+                        {
+                            "src": "assets/066-image_003.jpg",
+                            "caption": "External works"
+                        },
+                        {
+                            "src": "assets/067-image_004.jpg",
+                            "caption": "Adelaide Terrace"
+                        }
+                    ],
+                    "chip": true
+                },
+                {
+                    "id": "highlights",
+                    "title": "Highlights",
+                    "text": "A selection of homes and visualisations from the practice.",
+                    "images": [
+                        {
+                            "src": "assets/003-image_005.jpg",
+                            "caption": "Light and bright"
+                        },
+                        {
+                            "src": "assets/005-image_010.jpg",
+                            "caption": "Goode Beach, Albany, by the ocean"
+                        },
+                        {
+                            "src": "assets/007-image_008.jpg",
+                            "caption": "Art Deco"
+                        },
+                        {
+                            "src": "assets/009-image_012.jpg",
+                            "caption": "Design for solar"
+                        }
+                    ],
+                    "chip": false
+                },
+                {
+                    "id": "renovations-3d",
+                    "title": "Renovations & 3D",
+                    "text": "Coolbinia: renovations and a new kitchen arrangement. Wembley: elegant and spacious, shown here in 3D visualisation and now under construction. Art Deco extensions with alfresco space and bay windows.",
+                    "images": [
+                        {
+                            "src": "assets/011-image_015.jpg",
+                            "caption": "Towards the garden, Coolbinia"
+                        },
+                        {
+                            "src": "assets/013-image_012.jpg",
+                            "caption": "Spectacular roof, Wembley (3D visualisation)"
+                        },
+                        {
+                            "src": "assets/015-image_008.jpg",
+                            "caption": "Interior"
+                        },
+                        {
+                            "src": "assets/017-image_019.jpg",
+                            "caption": "Balcony"
+                        },
+                        {
+                            "src": "assets/019-image_014.jpg",
+                            "caption": "Art Deco extensions: alfresco space and bay windows"
+                        },
+                        {
+                            "src": "assets/021-image_009.jpg",
+                            "caption": "Bay window"
+                        }
+                    ],
+                    "chip": true
+                },
+                {
+                    "id": "inner-city",
+                    "title": "Inner city",
+                    "text": "Inner city visualisation, Northbridge, and apartment upgrade documentation.",
+                    "images": [
+                        {
+                            "src": "assets/022-image.jpg",
+                            "caption": "Gardens"
+                        },
+                        {
+                            "src": "assets/023-image_003.jpg",
+                            "caption": ""
+                        },
+                        {
+                            "src": "assets/024-image_002.jpg",
+                            "caption": "Northbridge"
+                        },
+                        {
+                            "src": "assets/025-image_004.jpg",
+                            "caption": "Apartment upgrade documentation"
+                        }
+                    ],
+                    "chip": true
+                },
+                {
+                    "id": "green-gables",
+                    "title": "Green Gables",
+                    "text": "Even traditional can be fantastic… with space for the studio.",
+                    "images": [
+                        {
+                            "src": "assets/027-image_011.jpg",
+                            "caption": ""
+                        },
+                        {
+                            "src": "assets/029-image_008.jpg",
+                            "caption": "The sunroom in Guildford"
+                        },
+                        {
+                            "src": "assets/031-image_010.jpg",
+                            "caption": "Views through to the garden"
+                        },
+                        {
+                            "src": "assets/033-image_009.jpg",
+                            "caption": "The patio to watch the sun and views"
+                        }
+                    ],
+                    "chip": true
+                },
+                {
+                    "id": "design-for-solar",
+                    "title": "Design for solar",
+                    "text": "The wow factor: designing for sun and light in Wembley.",
+                    "images": [
+                        {
+                            "src": "assets/034-image_002.jpg",
+                            "caption": "Wembley, initial pictures"
+                        },
+                        {
+                            "src": "assets/035-image.jpg",
+                            "caption": "View out to the alfresco"
+                        }
+                    ],
+                    "chip": true
+                },
+                {
+                    "id": "south-perth",
+                    "title": "Art Deco",
+                    "text": "Opening up for light and views to the garden, including new kitchen and bathroom arrangements.",
+                    "images": [
+                        {
+                            "src": "assets/069-image_006.jpg",
+                            "caption": "South Perth extensions"
+                        },
+                        {
+                            "src": "assets/071-image_004.jpg",
+                            "caption": "Garden view"
+                        }
+                    ],
+                    "chip": true
+                },
+                {
+                    "id": "hovea-fitout",
+                    "title": "Interiors",
+                    "text": "Wonder kitchen, bathing and fit-out in the hills: great kitchen space, a modern bathroom and a holiday-resort feel.",
+                    "images": [
+                        {
+                            "src": "assets/044-image_010.jpg",
+                            "caption": "Kitchen"
+                        },
+                        {
+                            "src": "assets/045-image_007.jpg",
+                            "caption": "Kitchen"
+                        },
+                        {
+                            "src": "assets/046-image.jpg",
+                            "caption": "Dining"
+                        },
+                        {
+                            "src": "assets/047-image_006.jpg",
+                            "caption": "Bathroom"
+                        },
+                        {
+                            "src": "assets/048-image_009.jpg",
+                            "caption": "Shower"
+                        },
+                        {
+                            "src": "assets/049-image_004.jpg",
+                            "caption": ""
+                        },
+                        {
+                            "src": "assets/050-image_002.jpg",
+                            "caption": ""
+                        },
+                        {
+                            "src": "assets/051-image_008.jpg",
+                            "caption": ""
+                        },
+                        {
+                            "src": "assets/052-image_005.jpg",
+                            "caption": "Bedroom"
+                        },
+                        {
+                            "src": "assets/053-image_003.jpg",
+                            "caption": "Exterior cladding"
+                        }
+                    ],
+                    "chip": true
+                },
+                {
+                    "id": "nw-mining",
+                    "title": "Mining",
+                    "text": "Yandicoogina mining site infrastructure, roadways, services and accommodation. Construction completed 2011.",
+                    "images": [
+                        {
+                            "src": "assets/063-image_002.jpg",
+                            "caption": "Yandicoogina mining site infrastructure"
+                        }
+                    ],
+                    "chip": true
+                }
+            ],
+            "allLabel": "Highlights",
+            "quickAdd": "recent-work",
+            "across": 0
+        },
+        {
+            "id": "about",
+            "type": "page",
+            "title": "About Peter",
+            "menu": "About",
+            "visible": true,
+            "layout": "side",
+            "body": "<p><strong>Peter Beyer Architect</strong> is qualified as an architect with the Australian Institute of Architects, with previous overseas experience and British Royal Institute of Architects and Berlin Architektenkammer affiliations.</p><h3>Design</h3><p>High quality, good value, efficient construction and green environmental design.</p><h3>Works</h3><p>From residential and commercial to complex institutional projects, mining infrastructure and accommodation.</p><h3>Additional expertise</h3><ul><li>Specialist progress and construction advice and reports</li><li>Dilapidation surveys</li><li>Pre-purchase and owner-builder insurance inspections, metropolitan and country</li></ul><blockquote>“Listen to many, speak to a few.” — William Shakespeare</blockquote>",
+            "images": [
+                {
+                    "src": "assets/072-image.jpg",
+                    "caption": "Peter Beyer"
+                }
+            ],
+            "videos": []
+        },
+        {
+            "id": "news",
+            "type": "page",
+            "title": "News, views & graphics",
+            "menu": "News",
+            "visible": true,
+            "layout": "grid",
+            "body": "<p>Projects under construction and completed.</p><p><strong>In the hills:</strong> new regulations regarding Bushfire Attack Levels (BAL) affect construction in fire zones. Adjacent fuel loads affect new construction standards.</p>",
+            "images": [
+                {
+                    "src": "assets/055-image_012.jpg",
+                    "caption": "Hills project, 18 Aug 2011: documentation for colleagues. Construction complete."
+                },
+                {
+                    "src": "assets/057-image_010.jpg",
+                    "caption": "Axonometric view: more hills projects. Feasibility development for a builder, constructed 2012."
+                },
+                {
+                    "src": "assets/059-image_009.jpg",
+                    "caption": "Perspective: front view"
+                },
+                {
+                    "src": "assets/061-image_006.jpg",
+                    "caption": "More fun graphics"
+                }
+            ],
+            "videos": [
+                {
+                    "url": "https://www.youtube.com/watch?v=qYO1imY9lGM",
+                    "title": "Barcelona: street artists from La Rambla"
+                }
+            ]
+        },
+        {
+            "id": "guestbook",
+            "type": "page",
+            "title": "Guestbook",
+            "menu": "",
+            "visible": true,
+            "layout": "grid",
+            "body": "<blockquote><p>Nice web page, Pete. Get some architecture in there! This is where photos become invaluable.</p><p>— Pat, August 2011</p></blockquote><blockquote><p>Cool! Looks fabulous!</p><p>— Corinne Coombs, August 2011</p></blockquote>",
+            "images": [
+                {
+                    "src": "assets/036-image_004.jpg",
+                    "caption": ""
+                },
+                {
+                    "src": "assets/037-image.jpg",
+                    "caption": ""
+                },
+                {
+                    "src": "assets/038-image_006.jpg",
+                    "caption": ""
+                },
+                {
+                    "src": "assets/039-image_003.jpg",
+                    "caption": ""
+                },
+                {
+                    "src": "assets/040-image_008.jpg",
+                    "caption": ""
+                },
+                {
+                    "src": "assets/041-image_005.jpg",
+                    "caption": ""
+                },
+                {
+                    "src": "assets/042-image_007.jpg",
+                    "caption": ""
+                },
+                {
+                    "src": "assets/043-image_002.jpg",
+                    "caption": ""
+                }
+            ],
+            "videos": []
+        },
+        {
+            "id": "links",
+            "type": "page",
+            "title": "Links",
+            "menu": "Links",
+            "visible": false,
+            "layout": "grid",
+            "body": "<p>Links coming soon.</p>",
+            "images": [],
+            "videos": []
+        },
+        {
+            "id": "contact",
+            "type": "contact",
+            "title": "Let’s talk about your project",
+            "menu": "Contact",
+            "visible": true,
+            "body": "<p>Ring for an initial discussion. Peter is happy to talk through home plans, renovations, extensions and commercial work.</p>"
+        }
+    ]
+}
